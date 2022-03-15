@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096034884032",
+    "project_id": "co-thinker-21972",
+    "storage_bucket": "co-thinker-21972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096034884032:android:9e79c988d45b2f5cb95025",
+        "android_client_info": {
+          "package_name": "com.example.cothinker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096034884032-6vomh7n6863rshjjur4ckgp88ag4o2hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9q0Vbi8CvtH5I8bK1FQULcUAaWteSgwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096034884032-6vomh7n6863rshjjur4ckgp88ag4o2hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
